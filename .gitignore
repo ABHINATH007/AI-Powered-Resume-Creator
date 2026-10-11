@@ -1,0 +1,24 @@
+# Build and target artifacts
+target/
+**/target/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs and trace files
+*.log
+*.trace.db
+
+# IDE and editor configuration
+.idea/
+*.iml
+*.iws
+*.ipr
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
